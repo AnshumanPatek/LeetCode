@@ -8,5 +8,7 @@ class Solution {
        // return product;
        return (nums[check-1]-1)*(nums[check-2]-1);
 
+        //hello
+
     }
 }
